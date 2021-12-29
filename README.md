@@ -4,5 +4,7 @@
 
 🎮 Love to play some games and learn about new things in my free time.
 
-In this moment i trying to learn japanese and Blockchain 😁
+In this moment i trying to learn japanese, Blockchain and do a 100% in Dark Souls 2 😁
+
+all my repositories are in portuguese because i'm Brazilian, but one day i will put in english too.
 ##
