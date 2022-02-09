@@ -1,1 +1,1 @@
-> i'm fighting with devil inside my head.
+> I'm just an ordinary guy who is fighting with demons inside the head.
