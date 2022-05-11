@@ -1,10 +1,3 @@
->Let me mention what I've been thinking
->How to save the children, when the ship is sinking?
->So I'm singing, no lip syncing to slogans
->Political hooligans with tanks, missiles and guns
->Everything is relative when it's all in the family of man
->Understand the time has finally come to realize the great power of one
->All formulas equalize under the Sun, amen.
+I don't have much experience as a programmer, but I know a little about infrastructure, but I suffer a lot with networks, because of that I'm currently working as a DevOps.
 
-
-> I'm just an ordinary guy.
+You can say that I'm the guy who likes to know a little bit about everything and try everything.
